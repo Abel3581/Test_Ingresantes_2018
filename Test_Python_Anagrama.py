@@ -22,7 +22,7 @@ def mismoTamaño(lista, cadena):
 
 
 def esAnagramaParcial(lista, propuesta):
-    #Transformamos el estrin propuesto en una lista
+    #Transformamos el string propuesto en una lista
 
     listaPropuesta=[]
     for letra in propuesta:
